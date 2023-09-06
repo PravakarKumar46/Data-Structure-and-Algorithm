@@ -76,5 +76,9 @@ fun main() {
                   |pravakar
                   |kumar
               """.trimMargin()
-            println(strr)
+    println(strr)
+
+    print("Enter a number: ")
+    var input = readln()
+    println(input)
 }
